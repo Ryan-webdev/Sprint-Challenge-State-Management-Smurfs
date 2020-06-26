@@ -1,4 +1,4 @@
-
+import { FETCHING_DATA, ADD_SMURF, ERROR, POST_SMURF } from '../actions/smurfActions';
 
 const initialState ={
     smurfs: [],
